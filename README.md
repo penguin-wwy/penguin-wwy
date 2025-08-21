@@ -2,7 +2,7 @@
 
 - 🤔 I'm a Software Engineer.
 
-- 🔭 Working on tencent, focus on PL implementation, interested in PL/Security related techniques.
+- 🔭 Working on Wizard Quant, focus on PL implementation, interested in PL/Security related techniques.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penguin-wwy&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
