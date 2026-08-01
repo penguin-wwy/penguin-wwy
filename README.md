@@ -4,7 +4,7 @@
 
 - 🔭 Working on Wizard Quant, focus on LLM inference / Reinforcement learning / AI compiler / PL implementation, interested in AI/PL/Security related techniques.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penguin-wwy&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=penguin-wwy&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **penguin-wwy/penguin-wwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
